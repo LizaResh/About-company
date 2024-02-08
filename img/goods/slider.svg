@@ -1,0 +1,22 @@
+<svg width="245" height="18" viewBox="0 0 245 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 4">
+<rect id="Rectangle 57" y="8" width="245" height="3" fill="#D7DFE9"/>
+<rect id="Rectangle 58" x="35.1069" y="8" width="84.4055" height="3" rx="1.5" fill="url(#paint0_linear_107_2946)"/>
+<circle id="Oval 5" cx="34.4248" cy="9" r="7.5" fill="white" stroke="url(#paint1_linear_107_2946)" stroke-width="3"/>
+<circle id="Oval 5_2" cx="117.607" cy="9" r="7.5" fill="white" stroke="url(#paint2_linear_107_2946)" stroke-width="3"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_107_2946" x1="119.523" y1="9.09286" x2="35.1177" y2="9.09285" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5A83EB"/>
+<stop offset="1" stop-color="#3A67DA"/>
+</linearGradient>
+<linearGradient id="paint1_linear_107_2946" x1="43.4271" y1="6.55714" x2="25.4271" y2="6.55714" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5A83EB"/>
+<stop offset="1" stop-color="#3A67DA"/>
+</linearGradient>
+<linearGradient id="paint2_linear_107_2946" x1="126.609" y1="6.55714" x2="108.609" y2="6.55714" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5A83EB"/>
+<stop offset="1" stop-color="#3A67DA"/>
+</linearGradient>
+</defs>
+</svg>

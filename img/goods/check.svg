@@ -1,0 +1,12 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Checkbox">
+<rect id="Rectangle 3821" width="20" height="20" fill="url(#paint0_linear_3145_4400)"/>
+<path id="Vector" d="M5 11.8171L7.49307 14.3102L15.8033 5.99991" stroke="white" stroke-width="2" stroke-linecap="square"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_3145_4400" x1="20.0025" y1="7.28571" x2="0.0025439" y2="7.28571" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5A83EB"/>
+<stop offset="1" stop-color="#3A67DA"/>
+</linearGradient>
+</defs>
+</svg>
